@@ -1,0 +1,113 @@
+body{
+  margin: 0;
+  font-family: Inter, sans-serif;
+  height: 100vh;
+}
+
+.React_txt{
+  position: absolute;
+  width: 122.39px;
+  height: 22.25px;
+  left: 61.61px;
+ top:5px;
+ font-weight: bold;
+ font-size: 22.253px;
+ line-height: 27px;
+ letter-spacing: -0.05em;
+ color: #61DAFB;
+  
+}
+
+h4{
+position: absolute;
+width: 259px;
+height: 21px;
+left: 264px;
+top: 8px;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+text-align: right;
+color: #DEEBF8;
+}
+
+
+.Nav{
+  display: flex;
+  width: 550px;
+  height: 91px;
+  left: 0px;
+  top: 0px;
+  background-color: #21222A;
+}
+
+.imgclass{
+  position: absolute;
+  width: 28.93px;
+height: 28.93px;
+left: 26px;
+top: 31px;
+  
+}
+
+.Logotxt{
+  position: absolute;
+  width: 28.93px;
+  height: 28.93px;
+  left: 1px;
+  top: -5px;
+}
+
+.main_body{
+  position: absolute;
+width: 550px;
+height: 459px;
+left: 0px;
+top: 91px;
+background-color:#282D35;
+background-image: url(./components/react-js.svg);
+background-repeat: no-repeat;
+background-position: right;
+background-size: 264.16px;
+background-position-x: 430px;
+background-position-y: 100px;
+
+
+}
+
+
+.main_title{
+width: 425.87px;
+height: 41px;
+font-weight: bold;
+font-size: 39.06px;
+line-height: 47px;
+letter-spacing: -0.05em;
+color: #FFFFFF;
+margin: 25px;
+}
+
+.facts{
+  width: 388.28px;
+
+}
+
+li{
+width: 388.28px;
+height: 19.51px;
+left: 73.67px;
+top: 273.17px;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+margin: 1em 0;
+
+color: #FFFFFF;
+}
+
+li::marker{
+  color:#61DAFB;
+  font-size: 1.4rem;
+ 
+}
